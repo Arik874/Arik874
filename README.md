@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Nullifying+bugs+and+curses+since+day+one" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Nullifying+bugs+n+curses+since+day+one" alt="Typing SVG" />
 </p>
 
 <p align="center">
