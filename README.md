@@ -111,6 +111,14 @@
 
 ---
 
+## 🛰️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arik874&layout=compact&theme=radical&title_color=F700FF&text_color=FFFB00&bg_color=151515&border_color=00F0FF&langs_count=8"/>
+</p>
+
+---
+
 ## 🛰️ GitHub Stats
 
 <p align="center">
