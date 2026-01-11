@@ -19,7 +19,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=arik874&color=blue)
 ## ⚛️ About Me
 
-> <span style="color: white;">**Microelectronics Scholar & Techno-Researcher**</span>
+> <span style="color: white;">**Microelectronics Scholar & Researcher**</span>
 >
 > - <span style="color: white;">🎓 Masters student in Computer and Microelectronic Systems @ Universiti Teknologi Malaysia</span>
 > - <span style="color: white;">🎓 B.Tech in Computer Engineering @ Karunya University of Technology and Sciences, Coimbatore</span>
@@ -31,7 +31,7 @@
 ---
 
 
-## ⚡Neon Tech Arsenal
+## ⚡Tech Arsenal
 
 <details>
 <summary><b>🤖 ML / DL</b></summary>
