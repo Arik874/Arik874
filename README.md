@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20the%20Future-F700FF?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </h2>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=arik874&color=blue)
 ## ⚛️ About Me
 
 > <span style="color: white;">**Microelectronics Scholar & Techno-Researcher**</span>
