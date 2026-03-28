@@ -31,7 +31,7 @@
 ---
 
 
-## ⚡Tech Arsenal
+## 🛰️ Stack 
 
 <details>
 <summary><b>🤖 ML / DL</b></summary>
