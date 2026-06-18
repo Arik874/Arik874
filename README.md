@@ -17,24 +17,24 @@
 </h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arik874&color=blue)
-## ⚛️ About Me
+##  About Me
 
 > <span style="color: white;">**Microelectronics Scholar & Researcher**</span>
 >
-> - <span style="color: white;">🎓 Masters student in Computer and Microelectronic Systems @ Universiti Teknologi Malaysia</span>
-> - <span style="color: white;">🎓 B.Tech in Computer Engineering @ Karunya University of Technology and Sciences, Coimbatore</span>
-> - <span style="color: white;">🦿 Core experience: Embedded Systems, Automation, Edge AI, C & Python programming</span>
-> - <span style="color: white;">🤖 Research: Robotics, Machine Learning/Deep Learning, Computational Biology, Environmental Engineering, Bio & Health Sciences</span>
-> - <span style="color: white;">🛠️ Toolkit: Python, PyTorch, TensorRT, C, C++, Linux, ROS2, MATLAB/Simulink, Cadence Virtuoso, ONNX, NVIDIA Jetson, Raspberry Pi, and more (see below!)</span>
-> - <span style="color: white;">🌌 Exploring the neon-lit frontiers of technology</span>
+> - <span style="color: white;"> Masters student in Computer and Microelectronic Systems @ Universiti Teknologi Malaysia</span>
+> - <span style="color: white;"> B.Tech in Computer Engineering @ Karunya University of Technology and Sciences, Coimbatore</span>
+> - <span style="color: white;"> Core experience: Embedded Systems, Automation, Edge AI, C & Python programming</span>
+> - <span style="color: white;"> Research: Robotics, Machine Learning/Deep Learning, Computational Biology, Environmental Engineering, Bio & Health Sciences</span>
+> - <span style="color: white;">🛠️ Toolkit: Python, PyTorch, TensorRT, C, C++, Linux, ROS2, MATLAB/Simulink, GROMACS, ONNX, NVIDIA Jetson</span>
+> - <span style="color: white;"> Hardware focus w/ | AI | Quantum | Systems Integration </span>
 
 ---
 
 
-## 🛰️ Stack 
+## Kits
 
 <details>
-<summary><b>🤖 ML / DL</b></summary>
+<summary><b> ML / DL</b></summary>
 
 <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=F700FF"/>
 <img src="https://img.shields.io/badge/PyTorch-F700FF?style=for-the-badge&logo=pytorch&logoColor=00F0FF"/>
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary><b>🦿 Robotics / Embedded</b></summary>
+<summary><b> Robotics / Embedded</b></summary>
 
 <img src="https://img.shields.io/badge/C-00F0FF?style=for-the-badge&logo=c&logoColor=F700FF"/>
 <img src="https://img.shields.io/badge/C++-F700FF?style=for-the-badge&logo=cpp&logoColor=00F0FF"/>
@@ -62,9 +62,9 @@
 </details>
 
 <details>
-<summary><b>🔬 Microelectronics</b></summary>
+<summary><b> Microelectronics</b></summary>
 
-<img src="https://img.shields.io/badge/Cadence%20Virtuoso-00F0FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AMD Xilinx%20Vivado-00F0FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LTSpice-F700FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Analog%20IC-FFFB00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-FF00CC?style=for-the-badge"/>
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary><b>🛰️ Edge AI / Automation</b></summary>
+<summary><b> Edge AI / Automation</b></summary>
 
 <img src="https://img.shields.io/badge/Quantization-FF00CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Optimization-00F0FF?style=for-the-badge"/>
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary><b>🧬 Computational Immunology / Biology</b></summary>
+<summary><b> Computational Immunology / Biology</b></summary>
 
 <img src="https://img.shields.io/badge/ChimeraX-00F0FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyMOL-F700FF?style=for-the-badge"/>
@@ -101,7 +101,7 @@
 </details>
 
 <details>
-<summary><b>⚛️ Quantum Computing / QML</b></summary>
+<summary><b> Quantum Computing / QML</b></summary>
 
 <img src="https://img.shields.io/badge/PennyLane-F700FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VQE-FFFB00?style=for-the-badge"/>
@@ -111,7 +111,7 @@
 
 ---
 
-## 🛰️ Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arik874&layout=compact&theme=radical&title_color=F700FF&text_color=FFFB00&bg_color=151515&border_color=00F0FF&langs_count=8"/>
@@ -119,7 +119,7 @@
 
 ---
 
-## 🛰️ GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arik874&show_icons=true&theme=radical&title_color=F700FF&icon_color=00F0FF&text_color=FFFB00&bg_color=151515"/>
@@ -128,7 +128,7 @@
 
 ---
 
-## 🕹️ Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:aron874@gmail.com"><img src="https://img.shields.io/badge/Email-FFFB00?style=for-the-badge&logo=gmail&logoColor=F700FF"/></a>
