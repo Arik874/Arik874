@@ -21,12 +21,10 @@
 
 > <span style="color: white;">**Microelectronics Scholar & Researcher**</span>
 >
-> - <span style="color: white;"> Masters student in Computer and Microelectronic Systems @ Universiti Teknologi Malaysia</span>
-> - <span style="color: white;"> B.Tech in Computer Engineering @ Karunya University of Technology and Sciences, Coimbatore</span>
-> - <span style="color: white;"> Core experience: Embedded Systems, Automation, Edge AI, C & Python programming</span>
-> - <span style="color: white;"> Research: Robotics, Machine Learning/Deep Learning, Computational Biology, Environmental Engineering, Bio & Health Sciences</span>
-> - <span style="color: white;">🛠️ Toolkit: Python, PyTorch, TensorRT, C, C++, Linux, ROS2, MATLAB/Simulink, GROMACS, ONNX, NVIDIA Jetson</span>
-> - <span style="color: white;"> Hardware focus w/ | AI | Quantum | Systems Integration </span>
+> - <span style="color: white;"> Core experience: Embedded Systems, Edge AI, C & Python programming</span>
+> - <span style="color: white;"> Research: Machine Learning/Deep Learning</span>
+> - <span style="color: white;">🛠️ Toolkit: Python, PyTorch, TensorRT, C, C++, Linux, MATLAB/Simulink, ONNX, NVIDIA Jetson</span>
+> - <span style="color: white;"> Hardware focus w/ | AI | Systems Integration </span>
 
 ---
 
@@ -44,7 +42,7 @@
 </details>
 
 <details>
-<summary><b> Robotics / Embedded</b></summary>
+<summary><b> Embedded</b></summary>
 
 <img src="https://img.shields.io/badge/C-00F0FF?style=for-the-badge&logo=c&logoColor=F700FF"/>
 <img src="https://img.shields.io/badge/C++-F700FF?style=for-the-badge&logo=cpp&logoColor=00F0FF"/>
@@ -54,8 +52,6 @@
 <img src="https://img.shields.io/badge/MPLAB%20X-F700FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XC8-FF00CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PICSimLab-FFFB00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ROS2-00F0FF?style=for-the-badge&logo=ros&logoColor=F700FF"/>
-<img src="https://img.shields.io/badge/NVIDIA%20Issac%20Sim-F700FF?style=for-the-badge&logo=nvidia&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/MATLAB%2FSimulink-FFFB00?style=for-the-badge&logo=mathworks&logoColor=F700FF"/>
 <img src="https://img.shields.io/badge/Sensor%20Fusion-FF00CC?style=for-the-badge"/>
 
@@ -65,6 +61,7 @@
 <summary><b> Microelectronics</b></summary>
 
 <img src="https://img.shields.io/badge/AMD Xilinx%20Vivado-00F0FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vitis HLS-00F0FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LTSpice-F700FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Analog%20IC-FFFB00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-FF00CC?style=for-the-badge"/>
@@ -73,7 +70,7 @@
 </details>
 
 <details>
-<summary><b> Edge AI / Automation</b></summary>
+<summary><b> Edge AI</b></summary>
 
 <img src="https://img.shields.io/badge/Quantization-FF00CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Optimization-00F0FF?style=for-the-badge"/>
@@ -82,30 +79,6 @@
 <img src="https://img.shields.io/badge/RTOS-00F0FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NVIDIA%20Jetson-F700FF?style=for-the-badge&logo=nvidia&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-FFFB00?style=for-the-badge&logo=raspberrypi&logoColor=F700FF"/>
-
-</details>
-
-<details>
-<summary><b> Computational Immunology / Biology</b></summary>
-
-<img src="https://img.shields.io/badge/ChimeraX-00F0FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyMOL-F700FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PDB-FFFB00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ClustalOmega-FF00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BLAST-00F0FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROMACS-F700FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AMBER-FFFB00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MARTINI-FF00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CHARMM-00F0FF?style=for-the-badge"/>
-
-</details>
-
-<details>
-<summary><b> Quantum Computing / QML</b></summary>
-
-<img src="https://img.shields.io/badge/PennyLane-F700FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VQE-FFFB00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QNNs-00F0FF?style=for-the-badge"/>
 
 </details>
 
