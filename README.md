@@ -19,11 +19,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=arik874&color=blue)
 ##  About Me
 
-> <span style="color: white;">**Microelectronics Scholar & Researcher**</span>
 >
-> - <span style="color: white;"> Core experience: Embedded Systems, Edge AI, C & Python programming</span>
-> - <span style="color: white;"> Research: Machine Learning/Deep Learning</span>
-> - <span style="color: white;">🛠️ Toolkit: Python, PyTorch, TensorRT, C, C++, Linux, MATLAB/Simulink, ONNX, NVIDIA Jetson</span>
+> - <span style="color: white;"> Embedded Systems, Edge AI, C & Python programming</span>
+> - <span style="color: white;"> Machine Learning/Deep Learning</span>
+> - <span style="color: white;"> Python, PyTorch, TensorRT, C, C++, Linux, MATLAB/Simulink, ONNX, NVIDIA Jetson</span>
 > - <span style="color: white;"> Hardware focus w/ | AI | Systems Integration </span>
 
 ---
